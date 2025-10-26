@@ -13,7 +13,7 @@ Automatically save data in a CSV file
 
 Simple and easy-to-use command-line interface
 
-Example
+:white_check_mark: Example
 
 Enter expense name: Coffee
 
